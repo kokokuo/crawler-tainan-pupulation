@@ -1,0 +1,850 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"request_result	param"
+			],
+			[
+				"for",
+				"format	function"
+			],
+			[
+				"re",
+				"requests	module"
+			],
+			[
+				"end",
+				"end_month	statement"
+			],
+			[
+				"star",
+				"start_year	statement"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"drink_",
+				"drink_statistics"
+			],
+			[
+				"disc",
+				"distinct_drinks	statement"
+			],
+			[
+				"drink",
+				"drinks_type"
+			],
+			[
+				"au",
+				"auto_now"
+			],
+			[
+				"Cup",
+				"CupList	class"
+			],
+			[
+				"User",
+				"UserList	class"
+			],
+			[
+				"vie",
+				"views	module"
+			],
+			[
+				"we",
+				"webapi	module"
+			],
+			[
+				"Model",
+				"Model	Model"
+			],
+			[
+				"Mo",
+				"Model	Model"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"grid",
+				"grid-water"
+			],
+			[
+				"image",
+				"imagesLoaded"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"match",
+				"match_pattern	statement"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"conet",
+				"content"
+			],
+			[
+				"mo",
+				"modalBody"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"fa",
+				"FastQuestion	class"
+			],
+			[
+				"Ema",
+				"EMAIL_BACKEND"
+			],
+			[
+				"On",
+				"OnlineQuestion	class"
+			],
+			[
+				"E",
+				"EMAIL_HOST_PASSWORD"
+			],
+			[
+				"EMAIL",
+				"EMAIL_PORT"
+			],
+			[
+				"EMA",
+				"EMAIL_HOST_USER"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"rea",
+				"real_static_path	statement"
+			],
+			[
+				"lis",
+				"listdir	function"
+			],
+			[
+				"help",
+				"help_text"
+			],
+			[
+				"Fie",
+				"Fieldset	import"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"Noe",
+				"None	keyword"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"NOe",
+				"None	instance"
+			],
+			[
+				"Q",
+				"OnlineQuestionForm	class"
+			],
+			[
+				"Onl",
+				"OnlineQuestionForm"
+			],
+			[
+				"form",
+				"forms	module"
+			],
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"siz",
+				"sizeH"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"you",
+				"youtube_url	statement"
+			],
+			[
+				"admi",
+				"admin	module"
+			],
+			[
+				"F",
+				"False	keyword"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"s",
+				"static	static"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ca",
+				"canvas	Tag"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"url",
+				"urls	module"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"Base",
+				"BASE_DIR	statement"
+			],
+			[
+				"b",
+				"blank	param"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tainan-population/population-statstic-crawler.py",
+			"settings":
+			{
+				"buffer_size": 1844,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "crawler.sublime-project",
+			"settings":
+			{
+				"buffer_size": 353,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/koko/Documents/Python/crawler-exercise",
+		"/Users/koko/Documents/Python/crawler-exercise/tainan-population"
+	],
+	"file_history":
+	[
+		"/Users/koko/Library/Application Support/Sublime Text 3/Packages/User/Flake8Lint.sublime-settings",
+		"/Users/koko/Documents/Python/crawler-exercise/crawler.sublime-project",
+		"/Users/koko/Documents/Python/crawler-exercise/tainan-population/population-statstic-crawler.py",
+		"/Users/koko/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/koko/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/koko/nodeApp/hackntu/barbiecup/barbiecup/views.py",
+		"/Users/koko/nodeApp/hackntu/barbiecup/static/js/base.js",
+		"/Users/koko/nodeApp/hackntu/barbiecup/barbiecup/settings.py",
+		"/Users/koko/nodeApp/hackntu/barbiecup/webapi/models.py",
+		"/Users/koko/nodeApp/hackntu/barbiecup/webapi/urls.py",
+		"/Users/koko/nodeApp/hackntu/barbiecup/webapi/serializers.py",
+		"/Users/koko/nodeApp/hackntu/barbiecup/db.sqlite3",
+		"/Users/koko/nodeApp/hackntu/barbiecup/webapi/migrations/__init__.py",
+		"/Users/koko/nodeApp/hackntu/barbiecup/webapi/migrations/0001_initial.py",
+		"/Users/koko/nodeApp/hackntu/barbiecup/barbiecup/urls.py",
+		"/Users/koko/nodeApp/hackntu/barbiecup/templates/api_introduction.html",
+		"/Users/koko/nodeApp/hackntu/barbiecup/webapi/old_views.py",
+		"/Users/koko/nodeApp/hackntu/barbiecup/webapi/admin.py",
+		"/Users/koko/nodeApp/hackntu/barbiecup/webapi/views/__init__.py",
+		"/Users/koko/nodeApp/hackntu/barbiecup/webapi/views/group_robot.py",
+		"/Users/koko/nodeApp/hackntu/barbiecup/webapi/views/UserVIew.py",
+		"/Users/koko/nodeApp/hackntu/barbiecup/webapi/templates/webapi/introduction.html",
+		"/Users/koko/Documents/Python/django/hackntu/barbiecup/barbiecup/views.py",
+		"/Users/koko/Documents/Python/django/hackntu/barbiecup/webapi/views.py",
+		"/Users/koko/Documents/Python/django/hackntu/barbiecup/webapi/admin.py",
+		"/Users/koko/Documents/Python/django/hackntu/barbiecup/webapi/serializer.py",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/facewall/urls.py",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/ygeneration/urls.py",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/templates/fastquestion/index.html",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/ygeneration/views.py",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/templates/500.html",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/ygeneration/settings/base.py",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/templates/base.html",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/ygeneration/settings/production.py",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/static/js/fastquestion.js",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/static/js/imagesloaded.pkgd.js",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/.gitignore",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/static/css/fastquestion.css",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/templates/home.html",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/static/css/base.css",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/templates/fastquestion/youtube_modal.html",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/fastquestion/ajax.py",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/output.sql",
+		"/Users/koko/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/fastquestion/views.py",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/fastquestion/models.py",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/facewall/forms.py",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/fastquestion/questionVModel.py",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/facewall/models.py",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/ygeneration/settings/local.py",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/facewall/views.py",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/ygeneration/email_info.py",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/static/css/facewall.css",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/templates/facewall/index.html",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/static/js/base.js",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/templates/robots.txt",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/templates/facewall/add.html",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/robots.txt",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/templates/activity_intro.html",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/templates/team_intro.html",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/static/css/team_intro.css",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/templates/404.html",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/facewall/admin.py",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/templates/facewall/activity_rule.html",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/templates/facewall/result.html",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/templates/facewall/agree.html",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/static/css/error.css",
+		"/Users/koko/Documents/Python/django/atcc17/ygeneration/requirements.txt",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/facewall/models.py",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/static/js/facewall.js",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/templates/participate_activity.html",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/facewall/views.py",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/facewall/forms.py",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/facewall/admin.py",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/richevent/settings/local.py",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/static/css/facewall.css",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/templates/fast_question_wall.html",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/static/brickwall/demo/focusPointer.html",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/static/brickwall/demo/index.html",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/static/js/base.js",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/static/css/base.css",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/templates/base.html",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/static/css/team_intro.css",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/richevent/urls.py",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/templates/activity_intro.html",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/templates/home.html",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/templates/team_intro.html",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/templates/facewall.html",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/templates/facewall_show.html",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/templates/slickcode.html",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/static/photowall/jquery-photowall.js",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/static/photowall/index.html",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/richevent/settings/production.py",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/.gitignore",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/richevent/settings/__init__.py",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/richevent/settings/base.py",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/richevent/wsgi.py",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/richevent/dev_settings.py",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/richevent/settings",
+		"/Users/koko/Documents/Python/django/wakemap/wakemap/urls.py",
+		"/Users/koko/Documents/Python/django/wakemap/templates/index.html",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/templates/solitaire_mix.html",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/static_dev/popbox/ekko-lightbox/dist/ekko-modaldark-theme.css",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/static_dev/popbox/ekko-lightbox/dist/ekko-dark-theme.css",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/static_dev/js/base.js",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/static_dev/css/base.css",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/listenstory/tests.py",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/templates/popup.html",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/static_dev/dist/css/bootstrap.css",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/listenstory/models.py",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent/listenstory/views.py",
+		"/Users/koko/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/Users/koko/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/koko/Library/Application Support/Sublime Text 3/Packages/Python Flake8 Lint/Flake8Lint.sublime-settings",
+		"/Users/koko/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/koko/Library/Application Support/Sublime Text 3/Packages/User/Python (Django).sublime-settings",
+		"/Users/koko/Documents/Python/django/atcc-everich/richevent.sublime-project",
+		"/Users/koko/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/koko/Library/Application Support/Sublime Text 3/Packages/User/Default/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" 		# 客製化layout排版 用 FieldSet切群組\n 		self.helper.layout = Layout(\n 			Fieldset(\n 				# u'基本資料',\n 				'',\n 				Div(\n	        		Div('name', css_class=\"col-md-4\"),\n	        		css_class=\"row\"\n	        	),\n	        	Div(\n	        		Div('nickname', css_class=\"col-md-4\"),\n	        		css_class=\"row\"\n        		),\n        		Div(\n        			Div('contact_email', css_class=\"col-md-6\"),\n        			css_class=\"row\"\n    			),\n    		),\n    		Div('gender'),\n    		Fieldset(\n    			# u'生日',\n    			'',\n 				Div(\n	        		Div('birth_year', css_class=\"col-md-4\"),\n	        		Div('birth_month', css_class=\"col-md-4\"),\n	        		Div('birth_day', css_class=\"col-md-4\"),\n	        		css_class=\"row\"\n	        	)\n	        	\n    		),\n        	'face_image',\n			'content',\n			'youtube_url',\n			'topic_num'\n		)",
+			"loa",
+			"video_co",
+			"loaded",
+			"grid",
+			"face_content_block",
+			"moda",
+			"mo",
+			"url",
+			"ques_section_content",
+			"wid",
+			"self",
+			"font-fa",
+			"link",
+			"wall",
+			"ygeneration",
+			"size",
+			"size21",
+			"focusPoints",
+			"www-embed",
+			"		{% for face in fast_ques_faces %}\n			<div class=\"photo-wall-item\">\n					<!-- <a href=\"#myModal\" data-toggle=\"modal\"> -->\n						<!-- slick -->\n						<img src=\"{% static face %}\" class=\"open-popup-link\" alt=\"...\">\n					<!-- </a> -->\n			</div>\n		{% endfor %}\n",
+			"<div class=\"container\">\n			<div class=\"row\">",
+			"%;",
+			"body",
+			"face",
+			"border",
+			"face",
+			"section_info",
+			"padding-bottom",
+			"margin-bo",
+			"open-image",
+			"single-image",
+			"dark",
+			")\n",
+			"= ",
+			"logo",
+			"ever",
+			"everri",
+			"face_section",
+			"drag",
+			"tab",
+			"extra_pa",
+			"extra",
+			"auto_com"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tainan-population/population-statstic-crawler.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1114,
+								1114
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 702.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "crawler.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "crawler.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
