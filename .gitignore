@@ -2,8 +2,6 @@
 *.xlsx
 
 ###Python Notebook###
-*.ipynb
-/*.ipynb
 .ipynb_checkpoints/
 
 ###VSCode###
